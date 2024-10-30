@@ -12,3 +12,4 @@ _deps
 CMakeUserPresets.json
 CMP_modules
 rwc
+cpm-package-lock.cmake
